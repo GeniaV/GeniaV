@@ -1,4 +1,9 @@
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there! My name is Genia.
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there! My name is Genia :snowboarder: :computer: :milky_way:
+
+I am a student of Yandex.Prakticum. I am interested in **React, TypeScript**. I have developed front-end for some apps as a part of training and I am going to continue my deep diving into this stack. On the other hand I am looking forward to back-end course. It will be interesting and complicated :fire:
+
+**My motto** is that all apps are created for people. If app solves user's problems and makes life more comfortable, it is a big success.
+
 
 ![my-projects](https://user-images.githubusercontent.com/91983468/191351296-99391d2c-4c55-4880-8f03-57c9aa8ba644.png)
 

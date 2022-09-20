@@ -1,5 +1,7 @@
 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there! My name is Genia.
 
+![my-projects](https://user-images.githubusercontent.com/91983468/191351296-99391d2c-4c55-4880-8f03-57c9aa8ba644.png)
+
 ## Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)

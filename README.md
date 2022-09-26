@@ -17,7 +17,6 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/-ReactRouter-%23282C34?style=flat-square&logo=react-router)
 ![Redux](https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux)
-![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-%23282C34?style=flat-square&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)

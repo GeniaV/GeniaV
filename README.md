@@ -22,6 +22,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Jest](https://img.shields.io/badge/-Jest-greenC?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-lightgrey?style=flat-square&logo=Cypress)
+![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?style=flat-square&logo=Node.js)
+![Mongodb](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb)
 
 ## Моя статистика
 <p><img src="https://github-readme-stats.vercel.app/api?username=GeniaV&amp;show_icons=true" alt="GitHub Stats"></p>

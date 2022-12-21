@@ -23,7 +23,8 @@
 ![Jest](https://img.shields.io/badge/-Jest-greenC?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-lightgrey?style=flat-square&logo=Cypress)
 ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?style=flat-square&logo=Node.js)
-![Mongodb](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb)
+![Express](https://img.shields.io/badge/-Express-lightgray?style=flat-square&logo=Express)
+![MongoDB](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb)
 
 ## Моя статистика
 <p><img src="https://github-readme-stats.vercel.app/api?username=GeniaV&amp;show_icons=true" alt="GitHub Stats"></p>

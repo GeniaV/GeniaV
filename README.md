@@ -27,4 +27,4 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb)
 
 ## Моя статистика
-<p><img src="https://github-readme-stats.vercel.app/api?username=GeniaV&amp;show_icons=true" alt="GitHub Stats"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GeniaV&show_icons=true&theme=gotham" alt="GeniaV" />

@@ -25,6 +25,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-lightgray?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-lightgrey?style=flat-square&logo=Mongoose)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs)
+![TypeORM](https://img.shields.io/badge/-TypeORM-yellow?style=flat-square&logo=TypeORM)
+![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)
 
 ## Моя статистика
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GeniaV&show_icons=true&theme=gotham" alt="GeniaV" />

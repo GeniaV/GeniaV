@@ -1,8 +1,8 @@
 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут Женя :snowboarder: :computer: :milky_way:
 
-На данный момент я студентка Яндекс. Практикум. Начала с фронтенд. Сейчас на обучении осваиваю бэкенд :fire:
+Учусь в Яндекс.Практикум.
 
-Я считаю, что все приложения в первую очередь делаются для людей. Если приложение закрывает боли пользователя и делает его жизнь комфортнее, то это однозначно полезное приложение.
+Считаю, что все приложения в первую очередь делаются для людей. Если приложение закрывает боли пользователя и делает его жизнь комфортнее, то это однозначно полезное приложение.
 
 ![my-projects](https://user-images.githubusercontent.com/91983468/191351296-99391d2c-4c55-4880-8f03-57c9aa8ba644.png)
 
@@ -30,6 +30,7 @@
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-yellow?style=flat-square&logo=TypeORM)
 ![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
 
 ## Моя статистика
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GeniaV&show_icons=true&theme=gotham" alt="GeniaV" />

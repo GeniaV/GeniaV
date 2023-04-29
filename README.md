@@ -1,4 +1,4 @@
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут Женя :snowboarder: :computer: :milky_way: Я начинающий веб-разработчик. Выпускница Яндекс.Практикум.
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут Женя :snowboarder: :computer: :milky_way: Я веб-разработчик. Закончила Яндекс.Практикум.
 
 Считаю, что все приложения в первую очередь делаются для людей. Если приложение закрывает боли пользователя и делает его жизнь комфортнее, то это однозначно полезное приложение.
 

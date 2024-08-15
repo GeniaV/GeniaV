@@ -1,4 +1,4 @@
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут **Женя** :snowboarder: :computer: :milky_way: **Я - фронтед-разработчик,** а местами и backend-разработчик. Бодрый путь в разработке длинною в 1,5 года начала в Яндекс.Практикум. Сейчас делаю свои проекты, продолжаю прокачивать свои навыки на полученной базе знаний.
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут **Женя** :snowboarder: :computer: :milky_way: **Я - full-stack developer**. Мой бодрый путь в разработке начался с получения дополнительного образования длинною в 1,5 года в Яндекс.Практикум. Это стало стартовой точкой. Сейчас занимаюсь собственными проектами.
 
 Считаю, что все приложения в первую очередь делаются для людей. Если приложение закрывает боли пользователя и делает его жизнь комфортнее, то это однозначно полезное приложение.
 
@@ -14,11 +14,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/-ReactRouter-%23282C34?style=flat-square&logo=react-router)
+![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20%20Toolkit-8A2BE2)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-8A2BE2?style=flat-square&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Jest](https://img.shields.io/badge/-Jest-greenC?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-lightgrey?style=flat-square&logo=Cypress)
 ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?style=flat-square&logo=Node.js)
@@ -30,6 +31,7 @@
 ![TypeORM](https://img.shields.io/badge/-TypeORM-yellow?style=flat-square&logo=TypeORM)
 ![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## Моя статистика
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GeniaV&show_icons=true&theme=gotham" alt="GeniaV" />

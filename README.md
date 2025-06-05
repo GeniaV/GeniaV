@@ -1,6 +1,4 @@
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут **Женя** :snowboarder: :computer: :milky_way: **Я - full-stack developer**. Мой бодрый путь в разработке начался с получения дополнительного образования в Яндекс.Практикум. Это стало стартовой точкой. Сейчас занимаюсь собственными проектами.
-
-Считаю, что все приложения в первую очередь делаются для людей. Если приложение закрывает боли пользователя и делает его жизнь комфортнее, то это однозначно полезное приложение.
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Всем привет! Меня зовут **Женя** :snowboarder: :computer: :milky_way: **Я - full-stack developer**. 
 
 ![my-projects](https://user-images.githubusercontent.com/91983468/191351296-99391d2c-4c55-4880-8f03-57c9aa8ba644.png)
 

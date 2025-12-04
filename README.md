@@ -25,6 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-lightgrey?style=flat-square&logo=Mongoose)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
+![PriasmaORM](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-yellow?style=flat-square&logo=TypeORM)
 ![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)

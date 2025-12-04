@@ -32,4 +32,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## Моя статистика
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GeniaV&show_icons=true&theme=gotham" alt="GeniaV" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeniaV&theme=gotham" />
+</p>
